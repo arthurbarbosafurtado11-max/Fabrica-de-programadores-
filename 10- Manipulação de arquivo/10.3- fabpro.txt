@@ -1,0 +1,3 @@
+arthur | 1.0 | reprovado
+arthur | 5.0 | recuperação
+arthur | 8.0 | Aprovado
